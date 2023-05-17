@@ -15,8 +15,6 @@ public class Game : MonoBehaviour
     public static int coins;
     public Text winnerName;
 
-   
-
     public Text coiny;
 
     public GameObject gameOverPanel;
